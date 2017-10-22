@@ -1,0 +1,43 @@
+body {
+  background-color: purple;
+  font-family: 'Lora', sans-serif;
+  text-align: center;
+}
+
+#subHeader{
+  font-size: 2em;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 6%;
+}
+
+button {
+  width: 100%;
+  height: 50px;
+  font-weight: bold;
+  font-size: 1.5em;
+  color: #592659;
+  border-radius: 3px;
+  background-color: #e08de0;
+  border: solid #510051 4px;
+  margin-bottom: 3%;
+}
+
+#buttons {
+  margin: auto;
+}
+
+#bg {
+  background: transparent;
+}
+
+#bg2 {
+  background: transparent;
+}
+
+#mainScore {
+  font-weight: bold;
+  font-size: 12em;
+  color: white;
+}
